@@ -3,6 +3,5 @@ mysql-connector-python==8.0.29
 pandas==1.4.3
 plotly==5.6.0 
 datetime
-turtle
 tkinter
 
