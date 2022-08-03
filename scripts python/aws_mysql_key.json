@@ -1,0 +1,6 @@
+{
+	"user": "seu_usuario",
+	"password": "senha",
+	"endpoint": "seu_endpoint",
+	"databasename": "nome_bd"
+}
